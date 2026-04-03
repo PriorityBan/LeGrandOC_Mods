@@ -1,3 +1,7 @@
+You will recognise this as the metor addon template, This was literly my first time doing this so I used the template as my starting point and fed all of the code into ChatGPT, However I did test everything to ensure stability
+
+
+
 # Meteor Addon Template
 
 A template to allow easy usage of the Meteor Addon API.
